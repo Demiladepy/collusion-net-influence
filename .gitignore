@@ -1,0 +1,11 @@
+compute.env
+*.env
+__pycache__/
+*.pyc
+.pytest_cache/
+report/template/
+report/*.html
+report/*.png
+report/Apart_submission.docx
+report/build_report.py
+report/REPORT_DRAFT.md

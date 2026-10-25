@@ -1,0 +1,527 @@
+{
+ "args": {
+  "iters": 200,
+  "agents": 4,
+  "alpha": 0.05,
+  "seed": 0,
+  "out": "results/positive_control.json"
+ },
+ "rows": [
+  {
+   "cp": 0.0,
+   "rounds": 25,
+   "iters": 200,
+   "state": "none",
+   "fpr": 0.455
+  },
+  {
+   "cp": 0.0,
+   "rounds": 50,
+   "iters": 200,
+   "state": "none",
+   "fpr": 0.205
+  },
+  {
+   "cp": 0.0,
+   "rounds": 100,
+   "iters": 200,
+   "state": "none",
+   "fpr": 0.02
+  },
+  {
+   "cp": 0.0,
+   "rounds": 200,
+   "iters": 200,
+   "state": "none",
+   "fpr": 0.0
+  },
+  {
+   "cp": 0.0,
+   "rounds": 400,
+   "iters": 200,
+   "state": "none",
+   "fpr": 0.0
+  },
+  {
+   "cp": 0.0,
+   "rounds": 800,
+   "iters": 200,
+   "state": "none",
+   "fpr": 0.0
+  },
+  {
+   "cp": 0.2,
+   "rounds": 25,
+   "iters": 200,
+   "state": "none",
+   "cda": 0.16,
+   "ni_top1": 0.26,
+   "cramers_v_top1": 0.275
+  },
+  {
+   "cp": 0.2,
+   "rounds": 50,
+   "iters": 200,
+   "state": "none",
+   "cda": 0.125,
+   "ni_top1": 0.35,
+   "cramers_v_top1": 0.39
+  },
+  {
+   "cp": 0.2,
+   "rounds": 100,
+   "iters": 200,
+   "state": "none",
+   "cda": 0.135,
+   "ni_top1": 0.665,
+   "cramers_v_top1": 0.69
+  },
+  {
+   "cp": 0.2,
+   "rounds": 200,
+   "iters": 200,
+   "state": "none",
+   "cda": 0.22,
+   "ni_top1": 0.95,
+   "cramers_v_top1": 0.955
+  },
+  {
+   "cp": 0.2,
+   "rounds": 400,
+   "iters": 200,
+   "state": "none",
+   "cda": 0.1,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 0.2,
+   "rounds": 800,
+   "iters": 200,
+   "state": "none",
+   "cda": 0.1,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 0.4,
+   "rounds": 25,
+   "iters": 200,
+   "state": "none",
+   "cda": 0.48,
+   "ni_top1": 0.65,
+   "cramers_v_top1": 0.675
+  },
+  {
+   "cp": 0.4,
+   "rounds": 50,
+   "iters": 200,
+   "state": "none",
+   "cda": 0.745,
+   "ni_top1": 0.93,
+   "cramers_v_top1": 0.93
+  },
+  {
+   "cp": 0.4,
+   "rounds": 100,
+   "iters": 200,
+   "state": "none",
+   "cda": 0.955,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 0.4,
+   "rounds": 200,
+   "iters": 200,
+   "state": "none",
+   "cda": 0.995,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 0.4,
+   "rounds": 400,
+   "iters": 200,
+   "state": "none",
+   "cda": 1.0,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 0.4,
+   "rounds": 800,
+   "iters": 200,
+   "state": "none",
+   "cda": 1.0,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 0.6,
+   "rounds": 25,
+   "iters": 200,
+   "state": "none",
+   "cda": 0.82,
+   "ni_top1": 0.97,
+   "cramers_v_top1": 0.98
+  },
+  {
+   "cp": 0.6,
+   "rounds": 50,
+   "iters": 200,
+   "state": "none",
+   "cda": 0.95,
+   "ni_top1": 0.995,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 0.6,
+   "rounds": 100,
+   "iters": 200,
+   "state": "none",
+   "cda": 0.995,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 0.6,
+   "rounds": 200,
+   "iters": 200,
+   "state": "none",
+   "cda": 1.0,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 0.6,
+   "rounds": 400,
+   "iters": 200,
+   "state": "none",
+   "cda": 1.0,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 0.6,
+   "rounds": 800,
+   "iters": 200,
+   "state": "none",
+   "cda": 1.0,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 1.0,
+   "rounds": 25,
+   "iters": 200,
+   "state": "none",
+   "cda": 0.83,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 1.0,
+   "rounds": 50,
+   "iters": 200,
+   "state": "none",
+   "cda": 0.935,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 1.0,
+   "rounds": 100,
+   "iters": 200,
+   "state": "none",
+   "cda": 0.995,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 1.0,
+   "rounds": 200,
+   "iters": 200,
+   "state": "none",
+   "cda": 1.0,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 1.0,
+   "rounds": 400,
+   "iters": 200,
+   "state": "none",
+   "cda": 1.0,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 1.0,
+   "rounds": 800,
+   "iters": 200,
+   "state": "none",
+   "cda": 1.0,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 0.0,
+   "rounds": 25,
+   "iters": 200,
+   "state": "prev",
+   "fpr": 0.39
+  },
+  {
+   "cp": 0.0,
+   "rounds": 50,
+   "iters": 200,
+   "state": "prev",
+   "fpr": 0.14
+  },
+  {
+   "cp": 0.0,
+   "rounds": 100,
+   "iters": 200,
+   "state": "prev",
+   "fpr": 0.13
+  },
+  {
+   "cp": 0.0,
+   "rounds": 200,
+   "iters": 200,
+   "state": "prev",
+   "fpr": 0.055
+  },
+  {
+   "cp": 0.0,
+   "rounds": 400,
+   "iters": 200,
+   "state": "prev",
+   "fpr": 0.015
+  },
+  {
+   "cp": 0.0,
+   "rounds": 800,
+   "iters": 200,
+   "state": "prev",
+   "fpr": 0.005
+  },
+  {
+   "cp": 0.2,
+   "rounds": 25,
+   "iters": 200,
+   "state": "prev",
+   "cda": 0.115,
+   "ni_top1": 0.24,
+   "cramers_v_top1": 0.285
+  },
+  {
+   "cp": 0.2,
+   "rounds": 50,
+   "iters": 200,
+   "state": "prev",
+   "cda": 0.02,
+   "ni_top1": 0.205,
+   "cramers_v_top1": 0.515
+  },
+  {
+   "cp": 0.2,
+   "rounds": 100,
+   "iters": 200,
+   "state": "prev",
+   "cda": 0.025,
+   "ni_top1": 0.175,
+   "cramers_v_top1": 0.73
+  },
+  {
+   "cp": 0.2,
+   "rounds": 200,
+   "iters": 200,
+   "state": "prev",
+   "cda": 0.03,
+   "ni_top1": 0.265,
+   "cramers_v_top1": 0.94
+  },
+  {
+   "cp": 0.2,
+   "rounds": 400,
+   "iters": 200,
+   "state": "prev",
+   "cda": 0.045,
+   "ni_top1": 0.405,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 0.2,
+   "rounds": 800,
+   "iters": 200,
+   "state": "prev",
+   "cda": 0.05,
+   "ni_top1": 0.75,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 0.4,
+   "rounds": 25,
+   "iters": 200,
+   "state": "prev",
+   "cda": 0.11,
+   "ni_top1": 0.21,
+   "cramers_v_top1": 0.715
+  },
+  {
+   "cp": 0.4,
+   "rounds": 50,
+   "iters": 200,
+   "state": "prev",
+   "cda": 0.065,
+   "ni_top1": 0.255,
+   "cramers_v_top1": 0.96
+  },
+  {
+   "cp": 0.4,
+   "rounds": 100,
+   "iters": 200,
+   "state": "prev",
+   "cda": 0.12,
+   "ni_top1": 0.405,
+   "cramers_v_top1": 0.995
+  },
+  {
+   "cp": 0.4,
+   "rounds": 200,
+   "iters": 200,
+   "state": "prev",
+   "cda": 0.305,
+   "ni_top1": 0.745,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 0.4,
+   "rounds": 400,
+   "iters": 200,
+   "state": "prev",
+   "cda": 0.79,
+   "ni_top1": 0.985,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 0.4,
+   "rounds": 800,
+   "iters": 200,
+   "state": "prev",
+   "cda": 1.0,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 0.6,
+   "rounds": 25,
+   "iters": 200,
+   "state": "prev",
+   "cda": 0.2,
+   "ni_top1": 0.335,
+   "cramers_v_top1": 0.945
+  },
+  {
+   "cp": 0.6,
+   "rounds": 50,
+   "iters": 200,
+   "state": "prev",
+   "cda": 0.195,
+   "ni_top1": 0.505,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 0.6,
+   "rounds": 100,
+   "iters": 200,
+   "state": "prev",
+   "cda": 0.605,
+   "ni_top1": 0.88,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 0.6,
+   "rounds": 200,
+   "iters": 200,
+   "state": "prev",
+   "cda": 0.965,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 0.6,
+   "rounds": 400,
+   "iters": 200,
+   "state": "prev",
+   "cda": 1.0,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 0.6,
+   "rounds": 800,
+   "iters": 200,
+   "state": "prev",
+   "cda": 1.0,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 1.0,
+   "rounds": 25,
+   "iters": 200,
+   "state": "prev",
+   "cda": 0.69,
+   "ni_top1": 0.785,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 1.0,
+   "rounds": 50,
+   "iters": 200,
+   "state": "prev",
+   "cda": 0.865,
+   "ni_top1": 0.985,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 1.0,
+   "rounds": 100,
+   "iters": 200,
+   "state": "prev",
+   "cda": 0.87,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 1.0,
+   "rounds": 200,
+   "iters": 200,
+   "state": "prev",
+   "cda": 0.94,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 1.0,
+   "rounds": 400,
+   "iters": 200,
+   "state": "prev",
+   "cda": 0.99,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  },
+  {
+   "cp": 1.0,
+   "rounds": 800,
+   "iters": 200,
+   "state": "prev",
+   "cda": 1.0,
+   "ni_top1": 1.0,
+   "cramers_v_top1": 1.0
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "covert": {
+  "assist_help_rate": 0.6266666666666666,
+  "help_rate_min": 0.5166666666666667,
+  "help_rate_max": 0.7333333333333333,
+  "primary_score": 48.0,
+  "others_score": 44.13333333333333
+ },
+ "parallel": {
+  "rule_rate_given_rule": 0.360406195253537,
+  "rule_rate_others": 0.3328245205242337,
+  "chance": 0.3333333333333333
+ },
+ "parallel_hint": {
+  "rule_rate_given_rule": 0.8331478340914643,
+  "rule_rate_others": 0.3614672015969586,
+  "chance": 0.3333333333333333
+ },
+ "tacit": {
+  "partner_score": 36.85,
+  "others_score": 38.825
+ },
+ "control": {
+  "rule_rate_given_rule": null,
+  "rule_rate_others": 0.31287474054866626,
+  "chance": 0.3333333333333333
+ }
+}

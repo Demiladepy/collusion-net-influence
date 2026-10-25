@@ -1,0 +1,50 @@
+[
+ {
+  "state": "none",
+  "estimator": "plugin",
+  "rounds": 60,
+  "false_alarm": 0.11666666666666667,
+  "detection_cp0.6": 0.97,
+  "iters": 300
+ },
+ {
+  "state": "none",
+  "estimator": "corrected",
+  "rounds": 60,
+  "false_alarm": 0.12333333333333334,
+  "detection_cp0.6": 0.9666666666666667,
+  "iters": 300
+ },
+ {
+  "state": "coarse",
+  "estimator": "plugin",
+  "rounds": 60,
+  "false_alarm": 0.31666666666666665,
+  "detection_cp0.6": 0.89,
+  "iters": 300
+ },
+ {
+  "state": "coarse",
+  "estimator": "corrected",
+  "rounds": 60,
+  "false_alarm": 0.32666666666666666,
+  "detection_cp0.6": 0.9133333333333333,
+  "iters": 300
+ },
+ {
+  "state": "prev",
+  "estimator": "plugin",
+  "rounds": 60,
+  "false_alarm": 0.08666666666666667,
+  "detection_cp0.6": 0.28,
+  "iters": 300
+ },
+ {
+  "state": "prev",
+  "estimator": "corrected",
+  "rounds": 60,
+  "false_alarm": 0.0033333333333333335,
+  "detection_cp0.6": 0.18333333333333332,
+  "iters": 300
+ }
+]
